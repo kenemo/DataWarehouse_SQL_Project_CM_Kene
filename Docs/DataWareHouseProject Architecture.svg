@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="DataWareHouseProject Architecture.svg"
+   inkscape:export-filename="DataWareHouseProject Architecture.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.51980696"
+     inkscape:cx="647.3557"
+     inkscape:cy="614.65125"
+     inkscape:window-width="1150"
+     inkscape:window-height="967"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker42"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path42" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker40"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path40" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="129.97597"
+       y="354.47989"
+       width="81.399086"
+       height="56.454205"
+       id="rect2" />
+    <marker
+       style="overflow:visible"
+       id="marker41-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-84"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-8-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-2-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-75" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-3-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-7-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-5-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-75-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-7-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-7-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-7-4-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-6-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-8-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-2-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-84-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-0-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-7-49"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-6-12" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-8-3-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-2-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-7-4-2-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-6-2-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker41-4-4-8-7-4-2-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41-8-4-4-6-2-0-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ac9393" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+       x="88.677185"
+       y="31.092684"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-weight:bold;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+         x="88.677185"
+         y="31.092684">CRM</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+         x="88.677185"
+         y="35.061432"
+         id="tspan4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+       x="9.6362648"
+       y="150.03201"
+       id="text3-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-1"
+         style="font-weight:bold;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+         x="9.6362648"
+         y="150.03201">CRM</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+         x="9.6362648"
+         y="154.00076"
+         id="tspan4-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+       x="138.99255"
+       y="90.19191"
+       id="text3-8"
+       transform="translate(32.022484,-59.166378)"><tspan
+         id="tspan3-2"
+         style="font-weight:bold;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+         x="138.99255"
+         y="90.19191">ERP
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+       x="138.99255"
+       y="90.19191"
+       id="text3-8-4"
+       transform="translate(-128.58702,89.558654)"><tspan
+         id="tspan3-2-2"
+         style="font-weight:bold;fill:#000000;stroke-width:0.265;stroke-dasharray:none"
+         x="138.99255"
+         y="90.19191">ERP
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="16.326315"
+       y="105.6"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.264583"
+         x="16.326315"
+         y="105.6" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="43.171909"
+       y="56.337639"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.264583"
+         x="43.171909"
+         y="56.337639">Transactional Records </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="43.171909"
+         y="60.306389"
+         id="tspan7">about Sales and Orders</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="99.072113"
+       y="44.630177"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.264583"
+         x="99.072113"
+         y="44.630177">Currrent and Historical </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="99.072113"
+         y="48.598927"
+         id="tspan78">Product Information</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="97.841415"
+       y="74.543831"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.264583"
+         x="97.841415"
+         y="74.543831">Customer Information</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="44.984043"
+       y="65.603607"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="44.984043"
+         y="65.603607">cm_sales_details</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.984043"
+         y="69.572357"
+         id="tspan11">prd_key</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.984043"
+         y="73.541107"
+         id="tspan12">cst_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="8.6459694"
+       y="129.22592"
+       id="text10-6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="8.6459694"
+         y="129.22592"
+         id="tspan12-7">Sources</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="146.03952"
+       y="131.28575"
+       id="text10-6-37"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="146.03952"
+         y="131.28575"
+         id="tspan12-7-10">gold.dim_customers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="145.65894"
+       y="136.00861"
+       id="text10-6-37-6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="136.00861"
+         id="tspan12-7-10-5">PK  customer_key</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="139.97736"
+         id="tspan55">     </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="143.94611"
+         id="tspan59">     customer_id</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="147.91486"
+         id="tspan56">     customer_number</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="151.88361"
+         id="tspan57">     first_name</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="155.85236"
+         id="tspan58">     last_name</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="159.82111"
+         id="tspan60">     country</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="163.78986"
+         id="tspan82">     marital status</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="167.75861"
+         id="tspan61">     gender</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="171.72736"
+         id="tspan62">     birthdate</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="175.69611"
+         id="tspan63">     country</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="145.65894"
+         y="179.66486"
+         id="tspan54" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:36.84;display:inline;fill:#000000;stroke-width:0.264583"
+       x="80.716072"
+       y="224.69783"
+       id="text10-6-37-68"
+       transform="translate(119.91387,-94.59708)"><tspan
+         x="80.716072"
+         y="224.69783"
+         id="tspan28"><tspan
+           style="font-weight:bold"
+           id="tspan2">gold.fact_sales</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="200.98779"
+       y="134.69635"
+       id="text10-6-37-6-4"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="134.69635"
+         id="tspan12-7-10-5-8">        order_number</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="138.6651"
+         id="tspan59-9">FK1   product_key</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="142.63385"
+         id="tspan56-9">FK2  customer_key</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="146.6026"
+         id="tspan57-2">        order_date</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="150.57135"
+         id="tspan58-5">        shipping_date</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="154.5401"
+         id="tspan65">        due_date</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="158.50885"
+         id="tspan60-5">        sales_amount</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="162.4776"
+         id="tspan61-3">        quantity</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="166.44635"
+         id="tspan64">        price</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="200.98779"
+         y="170.4151"
+         id="tspan54-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="199.89127"
+       y="185.9375"
+       id="text10-6-37-6-4-2"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="199.89127"
+         y="185.9375"
+         id="tspan64-6">Sales Calculation</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="199.89127"
+         y="189.90625"
+         id="tspan74">Sales = Quantity * Price</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="199.89127"
+         y="193.875"
+         id="tspan54-7-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="261.11591"
+       y="188.77699"
+       id="text10-6-37-6-4-2-9"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="261.11591"
+         y="188.77699"
+         id="tspan64-6-6">Maintenance</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="261.11591"
+         y="192.74574"
+         id="tspan74-3">-Yes </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="261.11591"
+         y="196.71449"
+         id="tspan81">-No</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="261.11591"
+         y="200.68324"
+         id="tspan54-7-2-4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="154.63747"
+       y="187.46217"
+       id="text10-6-37-6-4-2-9-5"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="154.63747"
+         y="187.46217"
+         id="tspan64-6-6-8">Marital status</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="154.63747"
+         y="191.43092"
+         id="tspan74-3-1">-Married</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="154.63747"
+         y="195.39967"
+         id="tspan80">-Single</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="154.63747"
+         y="199.36842"
+         id="tspan54-7-2-4-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="184.49519"
+       y="142.19479"
+       id="text10-6-37-6-4-2-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="184.49519"
+         y="142.19479"
+         id="tspan74-2">All to one </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="184.49519"
+         y="146.16354"
+         id="tspan77">relationship</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="184.49519"
+         y="150.13229"
+         id="tspan54-7-2-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="237.18903"
+       y="138.23532"
+       id="text10-6-37-6-4-2-5-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="237.18903"
+         y="138.23532"
+         id="tspan74-2-7">All to one </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="237.18903"
+         y="142.20407"
+         id="tspan77-2">relationship</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="237.18903"
+         y="146.17282"
+         id="tspan54-7-2-5-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:36.84;display:inline;fill:#000000;stroke-width:0.264583"
+       x="80.716072"
+       y="224.69783"
+       id="text10-6-37-68-8"
+       transform="translate(171.35947,-94.8935)"><tspan
+         x="80.716072"
+         y="224.69783"
+         id="tspan30"><tspan
+           style="font-weight:bold"
+           id="tspan29">gold.dim_products</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="251.69498"
+       y="134.52718"
+       id="text10-6-37-6-4-0"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="134.52718"
+         id="tspan12-7-10-5-8-6">PK  product_key</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="138.49593"
+         id="tspan55-4-8">     </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="142.46468"
+         id="tspan59-9-1">     product_id</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="146.43343"
+         id="tspan56-9-9">     product_number</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="150.40218"
+         id="tspan57-2-8">     product_name</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="154.37093"
+         id="tspan58-5-9">     category_id</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="158.33968"
+         id="tspan65-7">     category</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="162.30843"
+         id="tspan60-5-2">     subcategory</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="166.27718"
+         id="tspan61-3-2">     maintenance</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="170.24593"
+         id="tspan62-3-8">     cost</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="174.21468"
+         id="tspan63-3-2">     product_line</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="178.18343"
+         id="tspan64-8">     start_date</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="251.69498"
+         y="182.15218"
+         id="tspan54-7-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="30.461298"
+       y="128.99242"
+       id="text10-6-3"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="30.461298"
+         y="128.99242"
+         id="tspan12-7-1">Bronze Layer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="30.461176"
+       y="139.71182"
+       id="text10-6-3-1"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="30.461176"
+         y="139.71182"
+         id="tspan12-7-1-1">crm_sales_details</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="103.31705"
+       y="53.182163"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="103.31705"
+         y="53.182163">crm_prd_info</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="103.31705"
+         y="57.150913"
+         id="tspan14">prd_key</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="102.27493"
+       y="79.665047"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="102.27493"
+         y="79.665047">crm_cust_info</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="102.27493"
+         y="83.633797"
+         id="tspan16">cst_id</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="102.27493"
+         y="87.602547"
+         id="tspan17">cst_key</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="159.46715"
+       y="38.012928"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="stroke-width:0.264583"
+         x="159.46715"
+         y="38.012928">Product Categories</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="152.2576"
+       y="25.761311"
+       id="text18-5"><tspan
+         sodipodi:role="line"
+         id="tspan18-5"
+         style="stroke-width:0.264583"
+         x="152.2576"
+         y="25.761311">Enterprise Resource Planning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="68.519989"
+       y="26.348194"
+       id="text18-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan18-5-3"
+         style="stroke-width:0.264583"
+         x="68.519989"
+         y="26.348194">Customer Relationship Management</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60.4149;fill:#000000;stroke-width:0.264583"
+       x="170.41992"
+       y="17.616943"
+       id="text18-5-5-2"
+       transform="translate(-50.391303,2.7995168)"><tspan
+         x="170.41992"
+         y="17.616943"
+         id="tspan32"><tspan
+           style="font-weight:bold"
+           id="tspan31">DATA INTEGRATION</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60.4149;fill:#000000;stroke-width:0.264583"
+       x="170.41992"
+       y="17.616943"
+       id="text18-5-5-2-1"
+       transform="translate(29.045939,104.86033)"><tspan
+         x="170.41992"
+         y="17.616943"
+         id="tspan34"><tspan
+           style="font-weight:bold"
+           id="tspan33">DATA SCHEMA - Sales Data Mat</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60.4149;fill:#000000;stroke-width:0.264583"
+       x="170.41992"
+       y="17.616943"
+       id="text18-5-5-2-1-2"
+       transform="translate(-107.5984,102.77598)"><tspan
+         x="170.41992"
+         y="17.616943"
+         id="tspan36"><tspan
+           style="font-weight:bold"
+           id="tspan35">DATA FLOW</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="161.20399"
+       y="43.276161"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="161.20399"
+         y="43.276161">erp_px_cat_g1v2</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="161.20399"
+         y="47.244911"
+         id="tspan20">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="146.64087"
+       y="62.679256"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="stroke-width:0.264583"
+         x="146.64087"
+         y="62.679256">Extra Customer information (Birthdate)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="162.28563"
+       y="67.634666"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="162.28563"
+         y="67.634666">erp_cust_az12</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="162.28563"
+         y="71.603416"
+         id="tspan23">cid</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="149.09882"
+       y="88.174522"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="stroke-width:0.264583"
+         x="149.09882"
+         y="88.174522">Location of Customers (Country)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="149.09882"
+         y="92.143272"
+         id="tspan25" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="163.3541"
+       y="93.837799"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="163.3541"
+         y="93.837799">erp_loc_a101</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="163.3541"
+         y="97.806549"
+         id="tspan27">cid</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.217209;stroke-dasharray:none"
+       id="rect27"
+       width="96.990913"
+       height="70.104721"
+       x="40.646946"
+       y="32.233402" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.230992"
+       id="rect28"
+       width="67.066147"
+       height="69.868759"
+       x="144.29692"
+       y="32.322323" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect29"
+       width="37.826488"
+       height="14.491967"
+       x="44.075527"
+       y="61.623188" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.242048"
+       id="rect30"
+       width="31.708359"
+       height="8.4222612"
+       x="100.13074"
+       y="49.551037" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect31"
+       width="29.229561"
+       height="12.526955"
+       x="100.87888"
+       y="76.320999" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.230123"
+       id="rect32"
+       width="39.089085"
+       height="8.1684875"
+       x="158.47127"
+       y="40.02137" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.24474"
+       id="rect33"
+       width="31.705666"
+       height="7.771255"
+       x="159.68663"
+       y="64.693649" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect34"
+       width="27.7558"
+       height="8.1056767"
+       x="161.48445"
+       y="90.423958" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.275005"
+       d="m 158.97263,70.358609 h -16.7143 v 26.507376 h 18.52744"
+       id="path35"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.24475;marker-start:url(#marker40)"
+       d="m 131.40685,86.947479 h 4.55641 v -6.321138 h 6.14647"
+       id="path36"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41)"
+       d="m 77.007785,68.407172 h 15.56909 v -12.06687 h 6.77499"
+       id="path37"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4)"
+       d="m 18.010446,148.56795 h 3.263608 v -9.55335 h 6.246211"
+       id="path37-0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4)"
+       d="m 61.089714,138.39418 9.890371,-0.0476"
+       id="path37-0-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8)"
+       d="m 60.474289,148.38194 9.890376,-0.0476"
+       id="path37-0-6-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-3)"
+       d="m 21.182741,148.52705 6.269456,-0.0476"
+       id="path37-0-6-3-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-3-4)"
+       d="m 21.494111,178.34098 5.549617,-0.0476"
+       id="path37-0-6-3-0-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-5)"
+       d="m 21.355479,148.58407 -5.86e-4,9.40499 5.400156,-0.0238"
+       id="path37-0-6-3-20"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-5-7)"
+       d="m 21.594827,178.09648 0.269354,10.75469 4.860277,-0.0238"
+       id="path37-0-6-3-20-5"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-8)"
+       d="m 60.85604,158.0442 9.508625,-0.0476"
+       id="path37-0-6-3-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-84)"
+       d="m 60.761533,169.45313 10.017622,-0.0476"
+       id="path37-0-6-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-7)"
+       d="m 60.655114,179.44089 9.508621,-0.0476"
+       id="path37-0-6-3-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-7-8)"
+       d="m 184.4787,135.88811 14.08965,5.80593"
+       id="path37-0-6-3-2-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-7-4)"
+       d="m 233.07401,137.64945 15.61665,-3.35611"
+       id="path37-0-6-3-2-62"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;marker-end:url(#marker41-4-4-8-7-4-2)"
+       d="m 232.98484,182.35755 -3.47807,-21.93564"
+       id="path37-0-6-3-2-62-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;marker-end:url(#marker41-4-4-8-7-4-2-4)"
+       d="m 281.08636,185.31672 -1.96915,-18.33458"
+       id="path37-0-6-3-2-62-9-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-8-3)"
+       d="m 60.782364,189.10315 9.381371,-0.0476"
+       id="path37-0-6-3-3-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-0)"
+       d="m 18.453034,178.31702 h 2.993668 l -0.179959,-9.55335 h 5.796311"
+       id="path37-0-8"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker42)"
+       d="m 77.425645,73.226552 h 15.16817 v 9.861684 h 7.27203"
+       id="path38"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.240427;stroke-dasharray:none;marker-start:url(#Triangle)"
+       d="m 133.41325,55.638762 h 6.11211 v -9.83703 h 18.6676"
+       id="path39"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="30.239679"
+       y="149.34291"
+       id="text43"><tspan
+         sodipodi:role="line"
+         id="tspan43"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="30.239679"
+         y="149.34291">crm_cust_info</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="29.558115"
+       y="158.7144"
+       id="text44"><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="29.558115"
+         y="158.7144">crm_prd_info</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="29.898897"
+       y="169.61943"
+       id="text45"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="29.898897"
+         y="169.61943">erp_cust_az12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="29.38772"
+       y="180.19408"
+       id="text46"><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="29.38772"
+         y="180.19408">erp_loc_a101</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="28.876551"
+       y="189.5656"
+       id="text47"><tspan
+         sodipodi:role="line"
+         id="tspan47"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="28.876551"
+         y="189.5656">erp_px_cst_g1v2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="74.570236"
+       y="129.25204"
+       id="text10-6-3-2"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="74.570236"
+         y="129.25204"
+         id="tspan12-7-1-7">Silver Layer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="74.570129"
+       y="139.97148"
+       id="text10-6-3-1-7"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.570129"
+         y="139.97148"
+         id="tspan12-7-1-1-9">crm_sales_details</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="74.348618"
+       y="149.60255"
+       id="text43-3"><tspan
+         sodipodi:role="line"
+         id="tspan43-1"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="74.348618"
+         y="149.60255">crm_cust_info</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="73.667046"
+       y="158.97404"
+       id="text44-9"><tspan
+         sodipodi:role="line"
+         id="tspan44-8"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="73.667046"
+         y="158.97404">crm_prd_onfo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="74.007843"
+       y="169.87907"
+       id="text45-6"><tspan
+         sodipodi:role="line"
+         id="tspan45-5"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="74.007843"
+         y="169.87907">erp_cust_az12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="73.496666"
+       y="178.7394"
+       id="text46-0"><tspan
+         sodipodi:role="line"
+         id="tspan46-2"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="73.496666"
+         y="178.7394">erp_loc_a101</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="72.985497"
+       y="188.11092"
+       id="text47-8"><tspan
+         sodipodi:role="line"
+         id="tspan47-6"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="72.985497"
+         y="188.11092">erp_px_cst_g1v2</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       id="rect48"
+       width="39.239021"
+       height="62.668144"
+       x="23.657679"
+       y="132.25024" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.179627;stroke-dasharray:none"
+       id="rect49"
+       width="11.729268"
+       height="62.559875"
+       x="8.1148634"
+       y="131.06468" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       id="rect50"
+       width="39.61998"
+       height="62.287186"
+       x="67.393143"
+       y="132.44072" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.254951;stroke-dasharray:none"
+       id="rect51"
+       width="39.247963"
+       height="5.7244692"
+       x="67.684914"
+       y="125.19743" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-1)"
+       d="m 104.28946,139.25625 8.61786,-0.0476"
+       id="path37-0-6-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-6)"
+       d="m 103.67404,149.24401 9.23228,6.80896"
+       id="path37-0-6-3-39"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-8-8)"
+       d="m 103.13416,157.46659 12.76069,28.26783"
+       id="path37-0-6-3-3-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-84-5)"
+       d="m 103.72861,168.69556 8.5742,-7.76404"
+       id="path37-0-6-4-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-7-49)"
+       d="m 103.65307,177.06368 11.65005,-15.04976"
+       id="path37-0-6-3-2-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker41-4-4-8-8-3-5)"
+       d="m 103.47311,189.96522 10.79922,0.13236"
+       id="path37-0-6-3-3-0-9"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="115.35222"
+       y="130.11412"
+       id="text10-6-3-2-7"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="115.35222"
+         y="130.11412"
+         id="tspan12-7-1-7-6">Gold Layer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="115.34882"
+       y="140.58043"
+       id="text44-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan44-8-6"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="115.34882"
+         y="140.58043">fact_sales</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="114.24995"
+       y="159.94357"
+       id="text45-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan45-5-8"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="114.24995"
+         y="159.94357">dim_customers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="116.07825"
+       y="190.75897"
+       id="text46-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan46-2-5"
+         style="fill:#000000;stroke:none;stroke-width:0.265"
+         x="116.07825"
+         y="190.75897">dim_products</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.217666;stroke-dasharray:none"
+       id="rect50-1"
+       width="26.710211"
+       height="62.334518"
+       x="113.01037"
+       y="133.27913" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.213143;stroke-dasharray:none"
+       id="rect51-6"
+       width="27.232468"
+       height="5.7662768"
+       x="112.76503"
+       y="126.0386" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.252741;stroke-dasharray:none"
+       id="rect52"
+       width="38.911297"
+       height="6.4886012"
+       x="23.694738"
+       y="124.81535" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#000000;stroke-width:0.264583"
+       x="232.18695"
+       y="40.01498"
+       id="text18-8"
+       transform="translate(-62.71857,11.286115)"><tspan
+         id="tspan18-2"
+         style="stroke-width:0.264583"
+         x="232.18695"
+         y="40.01498"><tspan
+   style="font-weight:bold"
+   id="tspan52">PRODUCT</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#000000;stroke-width:0.264583"
+       x="232.18695"
+       y="40.01498"
+       id="text18-8-0"
+       transform="translate(-125.65745,21.618223)"><tspan
+         id="tspan18-2-1"
+         style="stroke-width:0.264583"
+         x="232.18695"
+         y="40.01498"><tspan
+   style="font-weight:bold"
+   id="tspan52-6">PRODUCT</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#000000;stroke-width:0.264583"
+       x="232.18695"
+       y="40.01498"
+       id="text18-8-8"
+       transform="translate(-65.959402,36.012322)"><tspan
+         id="tspan18-2-0"
+         style="stroke-width:0.264583"
+         x="232.18695"
+         y="40.01498"><tspan
+   style="font-weight:bold"
+   id="tspan53">CUSTOMER</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#000000;stroke-width:0.264583"
+       x="232.18695"
+       y="40.01498"
+       id="text18-8-8-8"
+       transform="translate(-126.28001,52.25385)"><tspan
+         id="tspan18-2-0-9"
+         style="stroke-width:0.264583"
+         x="232.18695"
+         y="40.01498"><tspan
+   style="font-weight:bold"
+   id="tspan53-84">CUSTOMER</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#000000;stroke-width:0.264583"
+       x="232.18695"
+       y="40.01498"
+       id="text18-8-8-4"
+       transform="translate(-64.821949,61.844739)"><tspan
+         id="tspan18-2-0-7"
+         style="stroke-width:0.264583"
+         x="232.18695"
+         y="40.01498"><tspan
+   style="font-weight:bold"
+   id="tspan53-8">CUSTOMER</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#000000;stroke-width:0.264583"
+       x="232.18695"
+       y="40.01498"
+       id="text18-8-8-88"
+       transform="translate(-183.11934,40.101416)"><tspan
+         id="tspan18-2-0-0"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="232.18695"
+         y="40.01498">SALES</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.29481;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect74"
+       width="39.220268"
+       height="45.048229"
+       x="144.15324"
+       y="132.27589" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect75"
+       width="35.452072"
+       height="39.231224"
+       x="199.91811"
+       y="131.7923" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect76"
+       width="35.452072"
+       height="50.208771"
+       x="250.90189"
+       y="130.81796" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.225397;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect77"
+       width="40.35059"
+       height="8.6776705"
+       x="199.14319"
+       y="182.64992" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.217735;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect77-8"
+       width="27.40115"
+       height="11.924608"
+       x="153.39795"
+       y="184.66911" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.209928;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect77-3"
+       width="24.709558"
+       height="12.292335"
+       x="259.74481"
+       y="185.79854" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 7.6350457,114.52569 H 289.11372"
+       id="path77" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.269555;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 141.75734,114.52569 v 91.11155"
+       id="path78" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;marker-end:url(#marker41-4-4-8-7-4-2-3)"
+       d="M 175.56056,184.64715 171.5554,165.27306"
+       id="path37-0-6-3-2-62-9-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 251.57476,136.15832 h 33.72145"
+       id="path82" />
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 256.53754,131.70454 v 47.71904"
+       id="path83" />
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 200.67445,139.46684 H 234.3076"
+       id="path84" />
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 200.38519,144.05778 h 33.74245"
+       id="path85" />
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 208.21344,132.63034 v 37.52161"
+       id="path86" />
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 200.67445,135.52206 H 234.1414"
+       id="path87" />
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 150.53765,133.23155 v 43.13801"
+       id="path88" />
+    <path
+       style="fill:#ff0000;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 144.93862,137.68533 h 37.15722"
+       id="path89" />
+  </g>
+</svg>
